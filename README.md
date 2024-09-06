@@ -26,7 +26,7 @@
 I selected to compare the Spirogyra and Volvox species due to their differences in cell shape despite both being algae. Spirogyra cells are a cylinder shape and Volvox cells are a spherical shape.
 I used PCA (principal components analysis) to simplify the data output.
 
-![image](https://github.com/user-attachments/assets/4b6cd431-e697-4c2c-8723-d0caa5c9a33e)
+![image](https://github.com/user-attachments/assets/76955b5c-1429-4eaf-a7c6-33851bfb3c65)
 
 ## Results of Microbe Comparison 1
 K-means Clustering is used to create clusters of the provided data. The graph shows that the clusters are very distinct from each other, there is barely any overlap among them.  
