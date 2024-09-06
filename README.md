@@ -2,7 +2,7 @@
 
 ## Description
 ### Data Source
-- The data set contains an array of species of bacteria. <br>
+- The data set contains a column of species of bacteria. <br>
 ['Spirogyra', 'Volvox', 'Pithophora', 'Yeast', 'Raizopus',
        'Penicillum', 'Aspergillus sp', 'Protozoa', 'Diatom', 'Ulothrix']
 
@@ -14,7 +14,7 @@
        'MinorAxisLength', 'Perimeter', 'ConvexArea', 'Centroid1', 'Centroid2',
        'Area', 'raddi', 'microorganisms']
 
-- Out of all the features, I selected some. <br>
+- These are the selected features. <br>
 ['Solidity', 'Eccentricity', 'EquivDiameter', 'Extrema',
        'FilledArea', 'Extent', 'Orientation', 'EulerNumber', 'BoundingBox1',
        'BoundingBox2', 'BoundingBox3', 'BoundingBox4', 'ConvexHull1',
