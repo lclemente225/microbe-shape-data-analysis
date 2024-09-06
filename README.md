@@ -29,4 +29,4 @@ I used PCA (principal components analysis) to simplify the data output.
 ![image](https://github.com/user-attachments/assets/76955b5c-1429-4eaf-a7c6-33851bfb3c65)
 
 ## Results of Microbe Comparison 1
-K-means Clustering is used to create clusters of the provided data. The graph shows that the clusters are very distinct from each other, there is barely any overlap among them.  
+K-means Clustering is used to create clusters of the provided data. The graph shows that the clusters are very distinct from each other, there is barely any overlap among them. Based on the data on the graph, it shows that the two species are distinctly different in many of the features. 
