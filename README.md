@@ -2,11 +2,11 @@
 
 # Description
 ## Data Source
-- The data set contains an array of species of bacteria. 
+- The data set contains an array of species of bacteria. <br>
 ['Spirogyra', 'Volvox', 'Pithophora', 'Yeast', 'Raizopus',
        'Penicillum', 'Aspergillus sp', 'Protozoa', 'Diatom', 'Ulothrix']
 
-- These are the features in the csv file.
+- These are the features in the csv file. <br>
 ['Unnamed: 0', 'Solidity', 'Eccentricity', 'EquivDiameter', 'Extrema',
        'FilledArea', 'Extent', 'Orientation', 'EulerNumber', 'BoundingBox1',
        'BoundingBox2', 'BoundingBox3', 'BoundingBox4', 'ConvexHull1',
@@ -14,7 +14,7 @@
        'MinorAxisLength', 'Perimeter', 'ConvexArea', 'Centroid1', 'Centroid2',
        'Area', 'raddi', 'microorganisms']
 
-- Out of all the features, I selected some.
+- Out of all the features, I selected some. <br>
 ['Solidity', 'Eccentricity', 'EquivDiameter', 'Extrema',
        'FilledArea', 'Extent', 'Orientation', 'EulerNumber', 'BoundingBox1',
        'BoundingBox2', 'BoundingBox3', 'BoundingBox4', 'ConvexHull1',
