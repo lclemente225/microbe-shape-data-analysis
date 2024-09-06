@@ -24,3 +24,5 @@
 
 ## Microbe Comparison
 I selected to compare the Spirogyra and Volvox species due to their differences in structure. I used PCA (principal components analysis) to simplify the data output.
+
+![image](https://github.com/user-attachments/assets/4b6cd431-e697-4c2c-8723-d0caa5c9a33e)
